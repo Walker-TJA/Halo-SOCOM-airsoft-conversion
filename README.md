@@ -1,3 +1,4 @@
+For use with Novritch SSP18
 The model provided is the latest development model. I will try and update it to the most recent as often as I can :)
 NOTE - THIS PROJECT IS COMPLETE. HOWEVER DO NOT USE THE PROJECT WHEN YOU INTEND TO FIRE YOUR SSP18. ANY REPLACEMENT REAR SCREW WILL DAMAGE YOUR REPLICA. I cannot find a new screw to make the slide function, so the info can be stated: it is a number 2 phillips for the rear sight screw. But It is a specially threaded one that you cannot buy online. Do not attempt to replace it with any other screw.
 <img width="1130" height="696" alt="image" src="https://github.com/user-attachments/assets/6b4954b3-14fd-4696-b3bc-89c5a33a111b" />

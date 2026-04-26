@@ -7,4 +7,4 @@ NOTE - THIS PROJECT IS COMPLETE. HOWEVER DO NOT USE THE PROJECT WHEN YOU INTEND 
 
 BOM: That one screw that is hard to find (impossible for now), 3D printer, any 3D printing material. I personally did mine in PLA or PETG but any should work. I would not recommend using any carbon fiber material as it will gunk up your replica.
 
-Link to project on ONSHAPE: https://cad.onshape.com/documents/c6105b50f6936d3fddfc3f11/w/f386a3d5d1eb8dcf818a085f/e/21352d6455cd766eded7a94e?renderMode=0&uiState=69ee868bc22ae69308ac432f 
+Link to project on ONSHAPE: https://cad.onshape.com/documents/c6105b50f6936d3fddfc3f11/w/f386a3d5d1eb8dcf818a085f/e/21352d6455cd766eded7a94e?renderMode=0&uiState=69ee878fdb3be5ce86d0b5fd 
